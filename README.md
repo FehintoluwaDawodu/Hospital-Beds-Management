@@ -16,4 +16,10 @@ Using Power Query, the dataset was cleaned and transformed to ensure consistency
 - Help healthcare administrators make data-driven decisions to reduce patient wait times
 - Improve staff efficiency, and enhance overall service quality.
 
+## Preview
+![Patient](https://github.com/FehintoluwaDawodu/Hospital-Beds-Management/blob/main/Screenshot%20(6).png)
+![Staff](https://github.com/FehintoluwaDawodu/Hospital-Beds-Management/blob/main/Screenshot%20(7).png)
+![Bedspace](https://github.com/FehintoluwaDawodu/Hospital-Beds-Management/blob/main/Screenshot%20(8).png)
+
+
 
